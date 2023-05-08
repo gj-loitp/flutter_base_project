@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 import 'home_page.dart';
 
 //TODO ic_launcher
 //TODO pkg name
+//TODO splash screen
 //TODO rate app
 //TODO share app
 //TODO more app
@@ -11,8 +13,22 @@ import 'home_page.dart';
 //TODO ad id manifest
 //TODO ad
 //TODO firebase
+
+final navigatorKey = GlobalKey<NavigatorState>();
+
 void main() {
-  runApp(const MyApp());
+  runApp(
+    GetMaterialApp(
+      enableLog: true,
+      debugShowCheckedModeBanner: true,
+      defaultTransition: Transition.cupertino,
+      home: const MyApp(),
+      navigatorKey: navigatorKey,
+      theme: ThemeData.light(),
+      darkTheme: ThemeData.dark(),
+      themeMode: ThemeMode.light,
+    ),
+  );
 }
 
 class MyApp extends StatelessWidget {

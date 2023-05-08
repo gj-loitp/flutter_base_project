@@ -144,6 +144,7 @@ id text
 id text2
 id time
 id title
+integer google_play_services_version
 integer status_bar_notification_info_maxnum
 layout custom_dialog
 layout notification_action
@@ -153,6 +154,7 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
+string common_google_play_services_unknown_issue
 string status_bar_notification_info_overflow
 style LaunchTheme
 style NormalTheme
@@ -161,6 +163,7 @@ style TextAppearance_Compat_Notification_Info
 style TextAppearance_Compat_Notification_Line2
 style TextAppearance_Compat_Notification_Time
 style TextAppearance_Compat_Notification_Title
+style Theme_PlayCore_Transparent
 style Widget_Compat_NotificationActionContainer
 style Widget_Compat_NotificationActionText
 styleable ActivityFilter activityAction activityName
