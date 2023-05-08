@@ -16,7 +16,7 @@ class UIUtils {
     String text,
     VoidCallback? onPressed,
     VoidCallback? onPressCodeViewer, {
-    Color backgroundColor = Colors.deepOrange,
+    Color backgroundColor = Colors.blue,
     IconData iconData = Icons.code,
   }) {
     // ignore: no_leading_underscores_for_local_identifiers

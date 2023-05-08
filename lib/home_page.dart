@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+
+import 'lib/util/ui_utils.dart';
+import 'lib/util/url_launcher_utils.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({
@@ -16,9 +20,15 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-        centerTitle: true,
+      appBar: UIUtils.getAppBar(
+        "widget.title",
+        () {
+          SystemNavigator.pop();
+        },
+        () {
+          UrlLauncherUtils.launchPolicy();
+        },
+        iconData: Icons.policy,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.center,
@@ -33,10 +43,10 @@ class _MyHomePageState extends State<MyHomePage> {
           ),
         ],
       ),
-      floatingActionButton: FloatingActionButton(
+      floatingActionButton: const FloatingActionButton(
         onPressed: null,
         tooltip: 'Increment',
-        child: const Icon(Icons.add),
+        child: Icon(Icons.add),
       ),
     );
   }
