@@ -13,15 +13,15 @@ dependencies:
   #https://pub.dev/packages/get
   get: ^4.6.5
   #https://pub.dev/packages/intl
-  intl: ^0.18.0
+  intl: ^0.18.1
   #https://pub.dev/packages/logger
   logger: ^1.3.0
   #https://pub.dev/packages/shared_preferences
-  shared_preferences: ^2.0.18
+  shared_preferences: ^2.1.0
   #https://pub.dev/packages/shimmer
   shimmer: ^2.0.0
   #https://pub.dev/packages/package_info_plus
-  package_info_plus: ^3.0.3
+  package_info_plus: ^3.1.2
   #https://pub.dev/packages/avatar_glow
   avatar_glow: ^2.0.2
   #https://pub.dev/packages/in_app_review
