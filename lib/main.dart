@@ -2,6 +2,15 @@ import 'package:flutter/material.dart';
 
 import 'home_page.dart';
 
+//TODO ic_launcher
+//TODO pkg name
+//TODO rate app
+//TODO share app
+//TODO more app
+//TODO policy
+//TODO ad id manifest
+//TODO ad
+//TODO firebase
 void main() {
   runApp(const MyApp());
 }
