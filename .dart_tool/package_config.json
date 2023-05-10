@@ -117,9 +117,9 @@
     },
     {
       "name": "connectivity_plus",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/connectivity_plus-3.0.6",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "connectivity_plus_platform_interface",
@@ -177,9 +177,9 @@
     },
     {
       "name": "device_info_plus",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/device_info_plus-8.2.2",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/device_info_plus-9.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "device_info_plus_platform_interface",
@@ -243,7 +243,7 @@
     },
     {
       "name": "file_picker",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/file_picker-5.2.10",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/file_picker-5.3.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -519,9 +519,9 @@
     },
     {
       "name": "package_info_plus",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/package_info_plus-3.1.2",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/package_info_plus-4.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "package_info_plus_platform_interface",
@@ -717,9 +717,9 @@
     },
     {
       "name": "share_plus",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/share_plus-6.3.4",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/share_plus-7.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "share_plus_platform_interface",
@@ -987,7 +987,13 @@
     },
     {
       "name": "win32",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/win32-3.1.4",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/win32-4.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "win32_registry",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/win32_registry-1.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -1022,7 +1028,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-10T15:43:26.567531Z",
+  "generated": "2023-05-10T15:45:22.638793Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
