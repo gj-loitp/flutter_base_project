@@ -945,27 +945,27 @@
     },
     {
       "name": "webview_flutter",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter-3.0.4",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter-4.2.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "webview_flutter_android",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter_android-2.10.4",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter_android-3.7.0",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "webview_flutter_platform_interface",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-1.9.5",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-2.3.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "webview_flutter_wkwebview",
-      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5",
+      "rootUri": "file:///Users/loitran/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.4.3",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.18"
     },
     {
       "name": "win32",
@@ -1004,7 +1004,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-10T15:35:08.825978Z",
+  "generated": "2023-05-10T15:36:21.667853Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
