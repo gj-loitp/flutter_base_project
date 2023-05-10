@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/learn_flutter_step_by_step.iml" filepath="$PROJECT_DIR$/learn_flutter_step_by_step.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/learn_flutter_step_by_step_android.iml" filepath="$PROJECT_DIR$/android/learn_flutter_step_by_step_android.iml" />
     </modules>
   </component>
 </project>
