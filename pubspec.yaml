@@ -91,11 +91,11 @@ dependencies:
   #https://pub.dev/packages/image_gallery_saver
   image_gallery_saver: ^1.7.1
   #https://pub.dev/packages/image_picker
-  image_picker: ^0.8.7
+  image_picker: ^0.8.7+4
   #https://pub.dev/packages/kenburns_nullsafety
   kenburns_nullsafety: ^1.0.0
   #https://pub.dev/packages/path_provider
-  path_provider: ^2.0.13
+  path_provider: ^2.0.15
   #https://pub.dev/packages/permission_handler
   permission_handler: ^10.2.0
   #https://pub.dev/packages/photo_view
