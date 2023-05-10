@@ -27,7 +27,7 @@ dependencies:
   #https://pub.dev/packages/in_app_review
   in_app_review: ^2.0.6
   #https://pub.dev/packages/url_launcher
-  url_launcher: ^6.1.10
+  url_launcher: ^6.1.11
   #https://pub.dev/packages/animated_text_kit
   animated_text_kit: ^4.2.2
   #https://pub.dev/packages/animated_toggle_switch
