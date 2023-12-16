@@ -1,4 +1,0 @@
-#Tue May 23 20:50:55 ICT 2023
-base.0=/Users/loitran/AndroidStudioProjects/flutter_base_project/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
