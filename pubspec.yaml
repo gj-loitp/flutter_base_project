@@ -1,7 +1,7 @@
 name: learn_flutter_step_by_step
 description: A new Flutter project.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-version: 2023.05.02+20230502
+version: 2023.12.16+20231216
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.5
+  cupertino_icons: ^1.0.6
   #https://pub.dev/packages/get
   get: ^4.6.5
   #https://pub.dev/packages/intl
